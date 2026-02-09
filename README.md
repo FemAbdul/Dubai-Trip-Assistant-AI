@@ -37,6 +37,7 @@ Set up environment variables
     OPENAI_API_KEY=your_openai_api_key_here
 
 ▶️ Running the App
+   
     streamlit run app.py
 
 How It Works
