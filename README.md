@@ -39,6 +39,10 @@ Set up environment variables
 ▶️ Running the App
    
     streamlit run app.py
+    
+## 📸 App Screenshot
+
+![Dubai Trip Planning Assistant Screenshot](images/Screenshot.png)
 
 How It Works
 
